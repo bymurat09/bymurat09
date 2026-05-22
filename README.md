@@ -1,20 +1,31 @@
-# Hi, I'm Murat Aksit
+# Hi there, I'm Murat Aksit
+
+![Profile views](https://komarev.com/ghpvc/?username=bymurat09&style=flat-square&color=0e75b6)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-builder-111827?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-tooling-2563eb?style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow%20Automation-operations-16a34a?style=flat-square)
 
 I build AI-native systems, MCP servers, research automation tools, and practical workflows that connect models, APIs, data, and real operations.
 
-My work goes beyond writing isolated apps. I design end-to-end AI workflows: finding the right data sources, connecting public and private APIs, building MCP tools, testing live integrations, automating research and reporting, and turning rough ideas into systems that people can actually run.
+My work goes beyond isolated apps. I design end-to-end AI workflows: finding the right data sources, connecting public and private APIs, building MCP tools, testing live integrations, automating research and reporting, and turning rough ideas into systems people can actually run.
 
-## What I Work On
+## Connect
 
-- Model Context Protocol (MCP) servers and AI tool integrations
-- Literature search and academic research automation
-- Multi-source API aggregation, metadata search, and deduplication
-- Agentic coding workflows with Codex, Claude Code, Cursor, and similar tools
-- Internal automation systems for research, reporting, monitoring, and operations
-- Full-stack products that combine dashboards, databases, APIs, and AI models
-- Practical AI workflows that reduce manual work instead of adding complexity
+[![Website](https://img.shields.io/badge/Website-murataksit.com-0f172a?style=for-the-badge)](https://murataksit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-murataksit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murataksit)
+[![GitHub](https://img.shields.io/badge/GitHub-bymurat09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bymurat09)
 
-## Featured Public Project
+## Tech Stack
+
+| Area | Tools and Technologies |
+| --- | --- |
+| AI tooling | ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) ![Agents](https://img.shields.io/badge/AI%20Agents-2563eb?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-d97706?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square) |
+| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square) |
+| Backend and APIs | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0f766e?style=flat-square) ![Open Data](https://img.shields.io/badge/Open%20Data-7c3aed?style=flat-square) ![API Orchestration](https://img.shields.io/badge/API%20Orchestration-0284c7?style=flat-square) |
+| Data and research | ![Academic Search](https://img.shields.io/badge/Academic%20Search-1d4ed8?style=flat-square) ![Metadata](https://img.shields.io/badge/Metadata-64748b?style=flat-square) ![Deduplication](https://img.shields.io/badge/Deduplication-0891b2?style=flat-square) ![Reporting](https://img.shields.io/badge/Reporting-9333ea?style=flat-square) |
+| Operations | ![Automation](https://img.shields.io/badge/Automation-16a34a?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-f97316?style=flat-square) ![Dashboards](https://img.shields.io/badge/Dashboards-0ea5e9?style=flat-square) ![Local First](https://img.shields.io/badge/Local--First-111827?style=flat-square) |
+
+## Featured Public Projects
 
 ### [literature-search-mcp](https://github.com/bymurat09/literature-search-mcp)
 
@@ -23,6 +34,10 @@ A zero-key MCP server for academic literature search and lightweight literature 
 It searches public scholarly indexes such as arXiv, PubMed, Semantic Scholar, DOAJ, Crossref, OpenAlex, Europe PMC, bioRxiv, medRxiv, DataCite, OpenCitations COCI, and PubMed Central Open Access.
 
 The project focuses on open metadata, source transparency, deduplication, citation lookup, and local-first usage without paid APIs, account setup, email collection, or grey-area full-text sources.
+
+### OpenMind Dynamic LLM Router and Budget Management Module
+
+A routing and budget-control module for LLM workflows, focused on model selection, cost awareness, and operational control for AI systems.
 
 ## Private Work
 
@@ -33,15 +48,19 @@ I care about systems that are inspectable, reliable, and useful in practice. The
 ## Focus Areas
 
 - AI agents and tool use
-- MCP ecosystem
+- Model Context Protocol ecosystem
 - Academic and web research automation
-- Open data and public APIs
-- Workflow automation
-- API orchestration
-- Data pipelines
-- Full-stack development
-- Product operations
+- Open data and public API aggregation
+- Workflow automation and process design
+- Data pipelines, dashboards, and reporting
+- Full-stack product operations
 - Local-first AI tools
+
+## GitHub Stats
+
+![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bymurat09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bymurat09&layout=compact&theme=github_dark&hide_border=true)
 
 ## Philosophy
 
