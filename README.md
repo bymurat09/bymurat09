@@ -44,12 +44,6 @@ I care about systems that are inspectable, reliable, and useful in practice. The
 - Full-stack product operations
 - Local-first AI tools
 
-## GitHub Stats
-
-![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bymurat09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bymurat09&layout=compact&theme=github_dark&hide_border=true)
-
 ## Philosophy
 
 I like building tools that are small enough to understand, strong enough to use, and flexible enough to extend.
