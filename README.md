@@ -22,7 +22,7 @@ My work goes beyond isolated apps. I design end-to-end AI workflows: finding the
 | AI tooling | ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) ![Agents](https://img.shields.io/badge/AI%20Agents-2563eb?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-d97706?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square) |
 | Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square) |
 | Backend and APIs | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0f766e?style=flat-square) ![Open Data](https://img.shields.io/badge/Open%20Data-7c3aed?style=flat-square) ![API Orchestration](https://img.shields.io/badge/API%20Orchestration-0284c7?style=flat-square) |
-| Data and research | ![Academic Search](https://img.shields.io/badge/Academic%20Search-1d4ed8?style=flat-square) ![Metadata](https://img.shields.io/badge/Metadata-64748b?style=flat-square) ![Deduplication](https://img.shields.io/badge/Deduplication-0891b2?style=flat-square) ![Reporting](https://img.shields.io/badge/Reporting-9333ea?style=flat-square) |
+| Data and research | ![Data Mining](https://img.shields.io/badge/Data%20Mining-b45309?style=flat-square) ![Academic Search](https://img.shields.io/badge/Academic%20Search-1d4ed8?style=flat-square) ![Metadata](https://img.shields.io/badge/Metadata-64748b?style=flat-square) ![Deduplication](https://img.shields.io/badge/Deduplication-0891b2?style=flat-square) ![Reporting](https://img.shields.io/badge/Reporting-9333ea?style=flat-square) |
 | Operations | ![Automation](https://img.shields.io/badge/Automation-16a34a?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-f97316?style=flat-square) ![Dashboards](https://img.shields.io/badge/Dashboards-0ea5e9?style=flat-square) ![Local First](https://img.shields.io/badge/Local--First-111827?style=flat-square) |
 
 ## Featured Public Projects
@@ -50,7 +50,7 @@ I care about systems that are inspectable, reliable, and useful in practice. The
 - AI agents and tool use
 - Model Context Protocol ecosystem
 - Academic and web research automation
-- Open data and public API aggregation
+- Data mining, open data, and public API aggregation
 - Workflow automation and process design
 - Data pipelines, dashboards, and reporting
 - Full-stack product operations
