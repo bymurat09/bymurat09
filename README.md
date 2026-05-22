@@ -25,23 +25,11 @@ My work goes beyond isolated apps. I design end-to-end AI workflows: finding the
 | Data and research | ![Data Mining](https://img.shields.io/badge/Data%20Mining-b45309?style=flat-square) ![Academic Search](https://img.shields.io/badge/Academic%20Search-1d4ed8?style=flat-square) ![Metadata](https://img.shields.io/badge/Metadata-64748b?style=flat-square) ![Deduplication](https://img.shields.io/badge/Deduplication-0891b2?style=flat-square) ![Reporting](https://img.shields.io/badge/Reporting-9333ea?style=flat-square) |
 | Operations | ![Automation](https://img.shields.io/badge/Automation-16a34a?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-f97316?style=flat-square) ![Dashboards](https://img.shields.io/badge/Dashboards-0ea5e9?style=flat-square) ![Local First](https://img.shields.io/badge/Local--First-111827?style=flat-square) |
 
-## Featured Public Projects
+## About My Work
 
-### [literature-search-mcp](https://github.com/bymurat09/literature-search-mcp)
+I work on the layer between business needs and technical execution: research, data mining, AI tooling, automation, dashboards, and operational systems.
 
-A zero-key MCP server for academic literature search and lightweight literature review workflows.
-
-It searches public scholarly indexes such as arXiv, PubMed, Semantic Scholar, DOAJ, Crossref, OpenAlex, Europe PMC, bioRxiv, medRxiv, DataCite, OpenCitations COCI, and PubMed Central Open Access.
-
-The project focuses on open metadata, source transparency, deduplication, citation lookup, and local-first usage without paid APIs, account setup, email collection, or grey-area full-text sources.
-
-### OpenMind Dynamic LLM Router and Budget Management Module
-
-A routing and budget-control module for LLM workflows, focused on model selection, cost awareness, and operational control for AI systems.
-
-## Private Work
-
-A lot of my work happens in private systems: AI-assisted research flows, data collection pipelines, internal dashboards, monitoring tools, custom MCP integrations, and automation layers for real business operations.
+My background combines market research, data analysis, process automation, product thinking, and hands-on software development. I use AI as a practical operating layer: connecting tools, searching information, structuring data, building workflows, and reducing repetitive work.
 
 I care about systems that are inspectable, reliable, and useful in practice. The goal is not to make AI look impressive in a demo. The goal is to make it work inside actual workflows.
 
